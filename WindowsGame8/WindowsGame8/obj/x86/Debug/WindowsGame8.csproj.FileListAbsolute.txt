@@ -1,0 +1,6 @@
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\bin\x86\Debug\WindowsGame8.exe
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\bin\x86\Debug\WindowsGame8.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\obj\x86\Debug\WindowsGame8.csprojResolveAssemblyReference.cache
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\obj\x86\Debug\WindowsGame8.exe
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\WindowsGame8\WindowsGame8\WindowsGame8\obj\x86\Debug\WindowsGame8.pdb
